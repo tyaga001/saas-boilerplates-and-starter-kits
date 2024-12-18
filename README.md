@@ -77,6 +77,7 @@ Browse the available boilerplates and starter kits by category:
 - [Nodewood](https://nodewood.com/) - Node.js
 - [Boostack.io](https://boostack.io/) - Node.js, open-source
 - [Nextless JS](https://nextlessjs.com) - Node.js
+- [Novel](https://novel.dev) - Node.js, Next, PostgreSQL, Stripe
 
 ### Python
 
