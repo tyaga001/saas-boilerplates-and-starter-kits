@@ -105,6 +105,7 @@ Browse the available boilerplates and starter kits by category:
 
 - [ASP.NET Zero](https://aspnetzero.com/) - ASP.NET Core
 - [fullstackhero](https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/) - .NET 7 Web API
+- [Brick - SaaS Starter Kit](https://brick.faciletechnolab.com/) - ASP.NET Core, React+Next.js or Angular
 
 ### Java
 
