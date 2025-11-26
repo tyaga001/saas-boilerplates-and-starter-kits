@@ -34,7 +34,6 @@ Browse the available boilerplates and starter kits by category:
 
 - [ShipSaaS.now](https://ship-saas.now) - Next.js, React, TypeScript, AI integration, Stripe, Multi-tenant, PostgreSQL
 - [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
-- [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
 - [SaaS AI Boilerplate](https://www.saasai.dev) - Next.js, React, Tailwind, AI integration, Stripe
 - [Ixartz Nextjs](https://github.com/ixartz/Next-js-Boilerplate) - Next.js, TypeScript
 - [Shipixen](https://shipixen.com) - Next.js
