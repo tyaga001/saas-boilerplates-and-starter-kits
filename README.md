@@ -7,6 +7,7 @@ This repository is a curated list of high-quality starter kits and templates cat
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+
 1. [Overview](#overview)
 2. [Featured Boilerplates](#featured-boilerplates)
 3. [Categories](#categories)
@@ -31,6 +32,8 @@ Browse the available boilerplates and starter kits by category:
 
 ### Next.js
 
+- [ShipSaaS.now](https://ship-saas.now) - Next.js, React, TypeScript, AI integration, Stripe, Multi-tenant, PostgreSQL
+- [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
 - [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
 - [SaaS AI Boilerplate](https://www.saasai.dev) - Next.js, React, Tailwind, AI integration, Stripe
 - [Ixartz Nextjs](https://github.com/ixartz/Next-js-Boilerplate) - Next.js, TypeScript
