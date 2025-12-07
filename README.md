@@ -87,6 +87,7 @@ Browse the available boilerplates and starter kits by category:
 - [Enferno Framework](https://enferno.io/) - Flask, open-source
 - [GeniePy](https://geniepy.com/) - FastAPI
 - [PySaaS](https://pysaas.io/) - Python, Pynecone
+- [ReadyKit](https://readykit.dev) - Python, Flask
 
 ### Django
 
