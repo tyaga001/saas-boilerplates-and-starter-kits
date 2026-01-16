@@ -48,6 +48,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaasRock](https://saasrock.com) - Next.js
 - [Usenextbase](https://usenextbase.com) - Next.js
 - [Robuste](https://robuste.dev) - Ship fast Stay robuste.
+- [VelocityKit](https://www.velocitykit.dev/) - Next.js, Supabase, Stripe, PostHog, AI integration
 
 ### React
 
