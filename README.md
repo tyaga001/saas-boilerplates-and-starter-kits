@@ -47,6 +47,7 @@ Browse the available boilerplates and starter kits by category:
 - [Next Starter AI](https://nextstarter.ai) - Next.js, AI integration
 - [SaasRock](https://saasrock.com) - Next.js
 - [Usenextbase](https://usenextbase.com) - Next.js
+- [Vibe Coding Starter Kit](https://vibecodingstarterkit.io) - Next.js, AI commands, Supabase, Stripe, TypeScript
 - [Robuste](https://robuste.dev) - Ship fast Stay robuste.
 
 ### React
