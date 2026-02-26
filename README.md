@@ -100,6 +100,7 @@ Browse the available boilerplates and starter kits by category:
 
 - [Autostrada](https://autostrada.dev/) - Go
 - [SaaS Startup Kit](https://saasstartupkit.com/) - Go, open-source
+- [LastSaaS](https://github.com/jonradoff/lastsaas) - Go, React, TypeScript, MongoDB, open-source, AI-native SaaS platform with multi-tenant auth, Stripe billing, white-label branding, MCP server, webhooks, and admin dashboard
 
 ### .NET
 
