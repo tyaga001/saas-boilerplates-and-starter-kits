@@ -143,6 +143,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaaSBold](https://saasbold.com/) - SaaS Boilerplate
 - [StartKit.AI](https://startkit.ai) - AI-focused SaaS Boilerplate
 - [All-In-One Next & React Native Starter](https://allinonedev.com) - Next.js, React Native
+- [VibeReady](https://vibeready.sh) - AI-native SaaS starter kit that keeps AI-generated code consistent at scale.
 
 ## How to Use This Catalog
 
