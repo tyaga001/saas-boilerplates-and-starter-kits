@@ -80,6 +80,7 @@ Browse the available boilerplates and starter kits by category:
 
 ### Python
 
+- [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - Python CLI that generates vertical SaaS apps (Next.js + Tailwind) with industry-specific data models from a single niche keyword. Open-source, zero dependencies.
 - [ShipFlask Boilerplate](https://shipflask.com) - Python, Flask, MongoDB
 - [SaaS Forge](https://www.saasforge.dev/) - Flask, open-source
 - [Ignite](https://github.com/sumukh/ignite) - Flask, commercial
