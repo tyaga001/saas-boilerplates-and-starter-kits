@@ -38,6 +38,7 @@ Browse the available boilerplates and starter kits by category:
 - [Supastarter](https://supastarter.dev) - Next.js, Supabase
 - [Makerkit](https://makerkit.dev) - Next.js
 - [ShipFast](https://shipfa.st/) - Next.js, Tailwind, MongoDB/Supabase
+- [ShipKit](https://shipkit.davrapps.dev) - Next.js + Bun SaaS boilerplate with auth (Better Auth), billing (Polar.sh), i18n, email (Resend), PostgreSQL
 - [LaunchFast](https://www.launchfa.st/) - Astro, Next.js, SvelteKit, MongoDB/Redis/PostgreSQL
 - [Nextacular](https://nextacular.co/) - Next.js, React, Tailwind CSS, PostgreSQL
 - [SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Next.js, React, TypeScript, PostgreSQL
