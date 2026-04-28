@@ -87,6 +87,7 @@ Browse the available boilerplates and starter kits by category:
 - [Enferno Framework](https://enferno.io/) - Flask, open-source
 - [GeniePy](https://geniepy.com/) - FastAPI
 - [PySaaS](https://pysaas.io/) - Python, Pynecone
+- [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for SaaS: 54 principles for FastAPI, Next.js 15 & Go 1.22+. CLAUDE.md templates, Claude Code skills, cursor rules for AI-assisted development.
 
 ### Django
 
