@@ -128,6 +128,10 @@ Browse the available boilerplates and starter kits by category:
 
 - [Ionstarter](https://ionstarter.dev/) - Ionic Framework
 
+### React Native / Expo
+
+- [AppLighter](https://applighter.com/) - React Native, Expo, NativeWind, Supabase — paid full-stack templates designed to be extended by AI coding agents
+
 ### Other / Multi-framework
 
 - [SYNDROM](https://syndrom.io/) - Angular/NestJS SaaS Boilerplate
