@@ -48,6 +48,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaasRock](https://saasrock.com) - Next.js
 - [Usenextbase](https://usenextbase.com) - Next.js
 - [Robuste](https://robuste.dev) - Ship fast Stay robuste.
+- [saas-genai-starter](https://github.com/delmalih/saas-genai-starter) - Next.js, FastAPI, PostgreSQL/pgvector, multi-tenant, BYO-key LLM (8 providers), RAG, Stripe, $0/month deploy, open-source (MIT)
 
 ### React
 
