@@ -31,6 +31,8 @@ Browse the available boilerplates and starter kits by category:
 
 ### Next.js
 
+- [SaaS Starter Kit](https://github.com/JIEGE666666666/saas-starter) - Next.js 15 boilerplate with Claude AI, Stripe subscriptions, NextAuth v5, and usage dashboard. $99 one-time, MIT license.
+
 - [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
 - [SaaS AI Boilerplate](https://www.saasai.dev) - Next.js, React, Tailwind, AI integration, Stripe
 - [Ixartz Nextjs](https://github.com/ixartz/Next-js-Boilerplate) - Next.js, TypeScript
