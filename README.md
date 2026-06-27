@@ -128,6 +128,10 @@ Browse the available boilerplates and starter kits by category:
 
 - [Ionstarter](https://ionstarter.dev/) - Ionic Framework
 
+### NestJS
+
+- [SaaS Starter by Cloudrix](https://github.com/sayahweb2-png/saas-starter-lite) - NestJS, Angular, TypeScript, Stripe, Multi-tenancy, MIT open-source
+
 ### Other / Multi-framework
 
 - [SYNDROM](https://syndrom.io/) - Angular/NestJS SaaS Boilerplate
