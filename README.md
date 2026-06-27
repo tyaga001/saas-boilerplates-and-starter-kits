@@ -128,6 +128,10 @@ Browse the available boilerplates and starter kits by category:
 
 - [Ionstarter](https://ionstarter.dev/) - Ionic Framework
 
+### NestJS
+
+- [SaaS Starter by Cloudrix](https://github.com/sayahweb2-png/saas-starter-lite) - NestJS, Angular, TypeScript, Stripe, Multi-tenancy, MIT open-source
+
 ### Other / Multi-framework
 
 - [SYNDROM](https://syndrom.io/) - Angular/NestJS SaaS Boilerplate
@@ -169,3 +173,12 @@ Please ensure your submission includes all required information, including the d
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors to this repository have waived all copyright and related or neighboring rights to this work.
+
+## SaaS Starter
+
+- **Website**: [demo.cloudrix.io](https://demo.cloudrix.io)
+- **GitHub**: [saas-starter-lite](https://github.com/sayahweb2-png/saas-starter-lite)
+- **Stack**: NestJS 11, Angular 21, TypeScript, PostgreSQL, Redis, Stripe, Docker, Terraform
+- **Pricing**: Free lite version (MIT) / $149 / $249 / $399 (one-time)
+- **Features**: JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC (4 roles), BullMQ, S3 uploads, audit logging, API keys, 55+ tests, CI/CD, Terraform AWS deployment
+
