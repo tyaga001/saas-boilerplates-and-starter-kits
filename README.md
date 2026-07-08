@@ -44,6 +44,7 @@ Browse the available boilerplates and starter kits by category:
 - [NextJSDirectory](https://nextjsdirectory.com/) - Next.js, directory building
 - [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments) - Next.js, Stripe
 - [Next.js Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js, Supabase, Stripe
+- [Launchkit](https://tgajwani4-a11y.github.io/launchkit-site/) - Next.js, Supabase, Stripe (auth + subscription billing + webhook sync pre-wired, $79 one-time)
 - [Next Starter AI](https://nextstarter.ai) - Next.js, AI integration
 - [SaasRock](https://saasrock.com) - Next.js
 - [Usenextbase](https://usenextbase.com) - Next.js
