@@ -104,6 +104,7 @@ Browse the available boilerplates and starter kits by category:
 ### .NET
 
 - [ASP.NET Zero](https://aspnetzero.com/) - ASP.NET Core
+- [DotForge](https://dotforge.dev/) - .NET 10 + Angular 22, multi-tenant
 - [fullstackhero](https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/) - .NET 7 Web API
 
 ### Java
