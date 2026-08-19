@@ -143,6 +143,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaaSBold](https://saasbold.com/) - SaaS Boilerplate
 - [StartKit.AI](https://startkit.ai) - AI-focused SaaS Boilerplate
 - [All-In-One Next & React Native Starter](https://allinonedev.com) - Next.js, React Native
+- [CODASMS Storefront Template](https://github.com/ajemba/sms-verification-template) - White-label SMS/OTP verification storefront (vanilla JS, single-file, MIT)
 
 ## How to Use This Catalog
 
