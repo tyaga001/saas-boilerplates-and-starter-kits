@@ -56,6 +56,7 @@ Browse the available boilerplates and starter kits by category:
 - [OpenSaaS.sh](https://OpenSaaS.sh/) - React, NodeJS, Prisma, Stripe
 - [AWS + React SaaS Template](https://github.com/SimonHoiberg/saas-template) - React, AWS
 - [Serverless SaaS](https://serverless.page) - React, serverless
+- [Hype Stack](https://www.hype-stack.dev) - React, Hono, Vite, Postgres, Electron, Expo, open-source
 
 ### Vue.js
 
@@ -77,6 +78,7 @@ Browse the available boilerplates and starter kits by category:
 - [Nodewood](https://nodewood.com/) - Node.js
 - [Boostack.io](https://boostack.io/) - Node.js, open-source
 - [Nextless JS](https://nextlessjs.com) - Node.js
+- [Hype Stack](https://www.hype-stack.dev) - React, Hono, Vite, Postgres, Electron, Expo, open-source
 
 ### Python
 
